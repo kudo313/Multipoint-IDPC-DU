@@ -13,12 +13,17 @@ Input:
   S là đỉnh nguồn
 
 Output: 
+
   Đồ thị G’ chứa các đường pi  đi từ S đến các đỉnh đích Ti  ∈ T
+  
   G’ thoả mãn ràng buộc DU
+  
   Tổng trọng số các cạnh của G’ là nhỏ nhất
+  
 
 
 Ràng buộc DU:
+
   Có nhiều nhất 1 đường đi từ S đến bất kỳ domain và thăm mỗi domain tối đa 1 lần
 
 ![Ảnh1](https://user-images.githubusercontent.com/53222626/119309347-62964c00-bc98-11eb-9d0b-ba8d41ebb0e0.png)
