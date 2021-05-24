@@ -3,9 +3,13 @@ Sử dụng thuật toán đàn kiến (ACO) 2 mức để giải bài toán Tì
 
 Input: 
 Đồ thị đa hướng có trọng số không âm G = (V, E, W) được đánh màu thuộc tập D
+
   V là tập các đỉnh, mỗi đỉnh được đánh 1 màu dv thuộc D.
+  
   E là tập các cạnh, w(e ) > 0  e  ∈ E.
+  
   T là tập các node đích
+  
   S là đỉnh nguồn
 
 Output: 
